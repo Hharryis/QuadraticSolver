@@ -1,4 +1,4 @@
-Read what this code does:
+What this code does:
 
 -Take quadratic equation as an input from the user without “=0”.
 
